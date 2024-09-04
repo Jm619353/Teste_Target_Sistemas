@@ -18,4 +18,4 @@ Javascript e ambiente Node.js
 
 - Quarto Desafio - Essa aplicação calcula o percentual de contribuição de cada estado para o faturamento total, a partir de um objeto que contém o faturamento mensal de diferentes estados brasileiros. Ele converte os valores de string para números, calcula o faturamento total e determina o percentual que cada estado representa no total.
 
-- Quinto Desafio - Essa aplicação define uma função para inverter uma palavra. Ele utiliza métodos nativos para manipulação de strings, transformando uma palavra em um array de caracteres, invertendo a ordem dos caracteres e unindo-os novamente para formar a palavra invertida.
+- Quinto Desafio - Essa aplicação define uma função para inverter uma palavra. O código cria uma nova string contendo os caracteres da palavra original na ordem inversa e exibe tanto a palavra original quanto a invertida no console. O script realiza a inversão de uma palavra, utilizando um loop para construir a palavra invertida caractere por caractere, e então exibe o resultado.
