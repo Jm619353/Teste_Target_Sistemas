@@ -1,11 +1,11 @@
-// Função para inverter uma palavra
-function inverterPalavra(palavra) {
-    return palavra.split('').reverse().join('');
-  }
 
-  const original = 'exemplo';
-  const invertida = inverterPalavra(original);
-  
+const original = 'exemplo';
+const invertida = inverterPalavra(original);
+
+// Função para inverter uma palavra
+function inverterPalavra(original) {
+    return original.split('').reverse().join('');
+  }
   console.log(`Palavra original: ${original}`); 
   console.log(`Palavra invertida: ${invertida}`); 
   
