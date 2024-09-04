@@ -10,7 +10,7 @@
 Javascript e ambiente Node.js
 
 ## Documentação
-- Primeiro Desafio - Essa aplicação tem como objetivo calcular a soma dos números inteiros de 1 até o valor do índice especificado. O resultado é exibido no console. Foi utilizado o loop 'while' para executar o bloco de código.
+- Primeiro Desafio - Essa aplicação tem como objetivo calcular a soma dos números inteiros de 1 até o valor do índice especificado. O resultado é exibido no console.
 
 - Segundo Desafio - Essa aplicação verifica se um número pertence à sequência de Fibonacci. Define um número e utiliza uma função para determinar se este número pertence à sequência, exibindo uma mensagem correspondente no console.
 
